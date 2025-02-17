@@ -8,10 +8,7 @@ const Card = () => {
         <h1 className="text-lg">James Nguyen</h1>
         <small>11/2/2025</small>
         <p className="pb-3">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sed
-          repellat, aliquid nemo, temporibus molestias earum deleniti mollitia
-          aliquam ullam nihil, praesentium veniam enim unde rem iste in corrupti
-          dolorum!
+          You can post everything you want if it is make you happy !!!
         </p>
         <div className="">
           <Image
