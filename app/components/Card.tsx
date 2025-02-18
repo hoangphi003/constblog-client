@@ -7,9 +7,7 @@ const Card = () => {
       <div>
         <h1 className="text-lg">James Nguyen</h1>
         <small>11/2/2025</small>
-        <p className="pb-3">
-          Today we post that it
-        </p>
+        <p className="pb-3">This post have just posting</p>
         <div className="">
           <Image
             src={
