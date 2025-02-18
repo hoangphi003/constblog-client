@@ -7,7 +7,12 @@ const Card = () => {
       <div>
         <h1 className="text-lg">James Nguyen</h1>
         <small>11/2/2025</small>
-        <p className="pb-3">This post have just posting</p>
+        <p className="pb-3">
+          <span className="text-yellow-400"> A Docker file is here</span>, Lorem
+          ipsum dolor sit amet consectetur adipisicing elit. Nisi sequi autem
+          illo aut perferendis eligendi labore? Esse culpa inventore sapiente
+          debitis quis.
+        </p>
         <div className="">
           <Image
             src={
