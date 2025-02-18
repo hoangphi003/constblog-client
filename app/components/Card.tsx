@@ -8,7 +8,7 @@ const Card = () => {
         <h1 className="text-lg">James Nguyen</h1>
         <small>11/2/2025</small>
         <p className="pb-3">
-          You can post everything you want if it is make you happy !!!
+          Today we post that it
         </p>
         <div className="">
           <Image
